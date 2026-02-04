@@ -1,45 +1,94 @@
-# Prashant Yadav
+# 👋 Hi, I’m Prashant Yadav
 
-**Prashant Yadav is a Software Engineer based in India.**  
-I build scalable web applications and backend systems with a strong focus on clean architecture, performance, and real-world problem solving.
+> **Software Engineer | Backend & Full-Stack Developer | System Builder**
 
-🌐 **Official Website:** https://prashantyadav.me  
+I build **scalable, high-performance web systems** with a focus on  
+clean architecture, maintainability, and real-world impact.
+
+🌍 **Location:** India  
+🌐 **Website:** https://prashantyadav.me  
 💼 **LinkedIn:** https://www.linkedin.com/in/prashant-yadav-865ab62b1/  
 🐦 **Twitter (X):** https://twitter.com/prashantyadav  
 💻 **GitHub:** https://github.com/prashant3030223  
 
 ---
 
-## 👨‍💻 About Me
-- Software Engineer with hands-on experience in Java, Spring Boot, and modern web technologies  
-- Passionate about building reliable, scalable, and maintainable systems  
-- Strong interest in backend development, APIs, and full-stack engineering  
-- Continuous learner focused on real-world engineering problems
+## 🧠 Who Am I?
+
+I’m a software engineer who enjoys turning complex problems into  
+simple, reliable, and scalable solutions.
+
+- Backend-focused engineer with full-stack capabilities  
+- Strong believer in **clean code + system design**  
+- Passionate about APIs, distributed systems, and performance  
+- Constantly learning and shipping real-world projects  
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Java, JavaScript  
-**Backend:** Spring Boot, REST APIs  
-**Frontend:** HTML, CSS, JavaScript, React  
-**Database:** MySQL  
-**Tools:** Git, GitHub, Postman  
+## ⚙️ Tech Arsenal
+
+### 🧩 Languages  
+- Java  
+- JavaScript  
+
+### 🏗 Backend  
+- Spring Boot  
+- RESTful APIs  
+
+### 🎨 Frontend  
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+
+### 🗄 Database  
+- MySQL  
+
+### 🛠 Tools & Workflow  
+- Git & GitHub  
+- Postman  
+- VS Code  
 
 ---
 
-## 🚀 What I Do
-- Design and develop backend services  
-- Build full-stack web applications  
-- Optimize performance and scalability  
-- Write clean, maintainable code  
+## 🚀 What I Build
+
+- Scalable backend services  
+- Full-stack web applications  
+- Secure and optimized APIs  
+- Clean, maintainable system architectures  
 
 ---
 
-## 📌 Online Presence
-This GitHub profile represents the official work and projects of **Prashant Yadav**.  
-For verified information, visit 👉 **https://prashantyadav.me**
+## 🧩 Engineering Philosophy
+
+- **Code should be readable before it is clever**  
+- **Performance matters**  
+- **Scalability is a design choice, not an afterthought**  
+- **Systems > scripts**
 
 ---
 
-© Prashant Yadav
+## 📌 Official Presence
 
+This GitHub profile hosts my verified projects and engineering work.  
+For official updates and portfolio, visit:
+
+👉 **https://prashantyadav.me**
+
+---
+
+## 🤝 Let’s Connect
+
+If you’re interested in:
+- Backend engineering  
+- System design  
+- Web development  
+- Collaboration on meaningful projects  
+
+Feel free to reach out via LinkedIn or email.
+
+---
+
+© 2026 — Prashant Yadav  
+Built with ❤️ and clean code.
