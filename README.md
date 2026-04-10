@@ -58,14 +58,3 @@ Profile : https://prashantyadav.me
 If (you like clean systems && serious code) {
     connect_with_me();
 }
-
-
-If you want, I can also make:
-🔥 **Ultra-dark ASCII version**  
-🤖 **AI hacker version**  
-🧑‍💼 **Recruiter + hacker hybrid**  
-🧾 **One-page resume README**
-
-Just say:
-**ascii / ai-hacker / hybrid / resume**
-
