@@ -11,24 +11,6 @@
 
 ---
 
-## 💻 GitHub Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant3030223&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prashant3030223&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
