@@ -5,9 +5,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=prashant3030223&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-## 🔥 GitHub Streak
+## 🔥 Live GitHub Streak
 
-![](https://nirzak-streak-stats.vercel.app/?user=prashant3030223&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prashant3030223&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 ## 💻 Most Used Languages
 
