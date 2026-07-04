@@ -7,24 +7,27 @@
 
 ## 🔥 Live GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prashant3030223&theme=dark&hide_border=false)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prashant3030223&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ## 💻 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant3030223&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant3030223&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages" />
+</p>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=prashant3030223&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prashant3030223&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
----
+## 👀 Profile Views
 
-[![](https://visitcount.itsvg.in/api?id=prashant3030223&icon=0&color=0)](https://visitcount.itsvg.in)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prashant3030223&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=prashant3030223&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=prashant3030223&icon=0&color=0" alt="Profile Views" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 🕶️ PRASHANT YADAV
